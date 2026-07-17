@@ -1,6 +1,6 @@
 /* ========================================
    PORTFOLIO - Style System
-   Paleta: Dark theme com tons suaves
+   Palette: Dark theme with soft tones
    ======================================== */
 
 /* --- Reset & Variables --- */
@@ -24,12 +24,12 @@
     --text-secondary: #9398b0;
     --text-muted: #6b7094;
 
-    /* Accent - Azul */
+    /* Accent - Blue */
     --accent: #1063a8;
     --accent-light: #2b8bd9;
     --accent-glow: rgba(16, 99, 168, 0.15);
 
-    /* Accent secundário - Verde agua */
+    /* Secondary accent - Teal */
     --accent-alt: #6ee7b7;
 
     /* Borders */
